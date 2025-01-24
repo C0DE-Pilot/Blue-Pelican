@@ -1,0 +1,1 @@
+The Codes are written by me and they are diffenetly correct. If you spot a mistake please let me know. They are not completly mean't to be copied, but you can use it as referance or help. I am new to this so I will need your help too.
