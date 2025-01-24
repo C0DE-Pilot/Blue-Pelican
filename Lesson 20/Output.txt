@@ -1,0 +1,6 @@
+Enter the A value for the line: 2.45
+Enter the B value for the line: 4
+Enter the C value for the line: -8
+Enter the x coordinate of the point: 2.17
+Enter the y coordinate of the point: -4
+Distance from the point to the line is: 3.9831092774319026
