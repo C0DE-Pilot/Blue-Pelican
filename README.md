@@ -1,16 +1,25 @@
-Helpful Stuff:
--The book the codes and project come out of Blue Pelican which you can buy, or borrow one from your school. 
--The software I mainly use for this is BlueJ, here is the download link below. IT IS FREE!!! 
- Link to BlueJ: https://www.bluej.org/
--I can't post the book, because for obviouse reasons but you can buy it. Here is the link to official website: https://www.bluepelicanjava.com/download.htm
- Personaly I would use amazon to buy the book but it is up to you.
+Helpful Resources:
 
-About me and the Code: 
--The Codes are written by me and they are definitely correct. 
--If you spot a mistake please let me know. 
--They are not completly mean't to be copied, but you can use it as referance or help. 
--I am new to this so I will need your help too.
--This will be frequently updated as I learn new things so enjoy!
--Just remember I am not proffesional coder this just what I am being taught, so don't expect the greatest from me.
--Nontheless have fun playing around and checking out with all the codes.
--I would try to post more links and helpful stuff frequently.
+The codes and projects come from the Blue Pelican book, which you can buy or borrow from your school library.
+
+I mainly use the software BlueJ for coding. It's free to download! Here's the link to BlueJ.
+
+I can't post the book for obvious reasons, but you can purchase it from the official Blue Pelican Java website. Personally, I recommend buying it on Amazon.
+
+About Me and the Code:
+
+All codes are written by me and should be correct.
+
+If you spot any mistakes, please let me know.
+
+These codes aren't meant to be copied exactly but can be used as a reference or help.
+
+I'm new to this, so I appreciate your help and feedback.
+
+I'll frequently update this as I learn new things, so enjoy!
+
+Remember, I'm not a professional coder—I'm just sharing what I'm being taught. So, please don't expect the greatest from me.
+
+Nonetheless, have fun exploring and playing around with the code.
+
+I'll try to post more links and helpful resources frequently.
